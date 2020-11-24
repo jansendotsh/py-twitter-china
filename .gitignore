@@ -4,3 +4,5 @@ lib/*
 lib64/*
 *.swp
 pyvenv.cfg
+tweets.csv
+users.csv
